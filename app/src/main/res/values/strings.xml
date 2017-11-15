@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="btnWatchVideo">Watch Video</string>
+    <string-array name="quality">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Auto</item>
+    </string-array>
+</resources>
